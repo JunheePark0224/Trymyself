@@ -5,3 +5,7 @@ I can edit in gitHub!
 This time, I will use fetch and merge which is pull.
 
 I am testing merge conflict. Is it working?
+
+This time, I will test the merge conflict from remote repo and local repo.
+
+To eliminate merge conflict, I will edit the file like this.
